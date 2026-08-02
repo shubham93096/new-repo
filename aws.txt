@@ -1,0 +1,5 @@
+aws services
+ec2
+vpc
+s3
+iam
