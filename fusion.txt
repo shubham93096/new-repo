@@ -1,3 +1,0 @@
-Devops Start
-1st tool
-git and github
