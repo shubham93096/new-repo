@@ -3,3 +3,6 @@ ec2
 vpc
 s3
 iam
+efs
+ebs
+cloudwatch
